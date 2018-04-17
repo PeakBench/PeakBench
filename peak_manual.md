@@ -15,3 +15,5 @@ configuration file. Executes jar and configuration files in the same directory.
 The executable Java packages for client.jar. The configuration file for 
 Client.properties. A detailed description of each parameter in the 
 configuration file. Executes jar and configuration files in the same directory.
+
++ The detailed usage information can be found: config
