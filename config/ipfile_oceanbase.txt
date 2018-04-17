@@ -1,0 +1,4 @@
+10.11.1.193:13880,mysql?useServerPrepStmts=true,admin,admin,com.mysql.jdbc.Driver,mysql
+10.11.1.194:13880,mysql?useServerPrepStmts=true,admin,admin,com.mysql.jdbc.Driver,mysql
+10.11.1.195:13880,mysql?useServerPrepStmts=true,admin,admin,com.mysql.jdbc.Driver,mysql
+10.11.1.195:13880,mysql?useServerPrepStmts=true,admin,admin,com.mysql.jdbc.Driver,mysql
