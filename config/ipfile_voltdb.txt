@@ -1,0 +1,1 @@
+10.11.1.197:21212?autoreconnect=true,onedb,root,root,org.voltdb.jdbc.Driver,voltdb
