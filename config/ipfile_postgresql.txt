@@ -1,0 +1,1 @@
+10.11.1.197:5432,onedb,liyuming,postgres,org.postgresql.Driver,postgresql
