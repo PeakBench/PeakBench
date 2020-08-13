@@ -1,4 +1,4 @@
-# PeaKBench
+# PeakBench
 
     
 Benchmarking is an essential suite supporting development of database management systems. It runs 
